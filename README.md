@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HeCoded
 - 👀 I’m interested in ...learning coding & Ai
-- 🌱 I’m currently learning ...everything IT related 
   
 
 <!---
