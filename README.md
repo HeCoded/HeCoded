@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HeCoded
-- 👀 I’m interested in ...learning coding & Ai
+🤝 Hi, I’m @HeCoded  
+- My focus areas include programming, artificial intelligence, cybersecurity, and exploring innovative technologies. I’m eager to deepen my knowledge and stay updated on the latest advancements in these fields.🤖💻📝
   
 
 <!---
